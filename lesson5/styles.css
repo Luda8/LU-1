@@ -13,29 +13,29 @@
   display: flex;
   justify-content: space-around;
  } 
- .About-items {
+ .about-items {
   width: 193px;
   height: 211px;
   list-style: none;
  }
- .Property-items {
+ .property-items {
   width: 133px; 
   height: 310px;
   list-style: none;
  }
- .Support-items {
+ .support-items {
   width: 233px;
   height: 122pt;
   list-style: none;
  }
-  .All-items{
-   width: 256px;
-   height: 16px;
-   list-style: none;
-   display: flex;
-   flex-wrap: nowrap;
+ .copyright-items{
+  width: 256px;
+  height: 16px;
+  list-style: none;
+  display: flex;
+  flex-wrap: nowrap;
  }
- .All-text {
+ .text-copyright {
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
   font-style: normal;
   font-weight: normal;
