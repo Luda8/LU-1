@@ -1,0 +1,123 @@
+* {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+  }
+  .rectangle-container {
+   width: 1440px;
+   height: 900px;
+   min-height: 100vh;
+   background-image: url(/style/img/castelmezzano-1979546\ 1.svg);
+   background-color: green;
+   background-repeat: no-repeat;
+   background-position: 0 0;
+  }
+  header {
+   width: 1232px;
+   height: 46px;
+   margin: 51px 104px 196px 104px;
+   display: flex;
+   flex-direction: row;
+   justify-content: space-between;
+  }
+  .vector {
+   width: 250px;
+   height: 40px;
+   justify-content: flex-start;
+  }
+  .right-part {
+   width: 222px;
+   height: 40px;
+   display: flex;
+   justify-content: flex-end;
+  }
+  .line {
+   width: 50px;
+   height: 2px;
+   background-color: #F5BD41;
+   margin: 0 auto;
+   border: none;
+  }
+  .stays {
+   width: 59px;
+   height: 28px;
+   margin-right: 24px;
+  }
+  .text-block {
+   font-family: 'Times New Roman', Times, serif;
+   font-style: normal;
+   font-size: 24px;
+   font-weight: normal;
+   text-align: center;
+   color: #ffff;
+   padding-right: 20px;
+  }
+  section {
+   width: 1232px;
+   height: 487px;
+   margin: 0px 104px 120px 104px;
+   display: flex;
+   flex-direction: column;
+  }
+  .search {
+   width: 1232px;
+   height: 64px;
+   margin-top: 145px;
+   background-color: #fff;
+   display: flex;
+   flex-direction: row;
+  }
+  .bloc1 {
+   width: 85px;
+   height: 21px;
+   margin: 22px 382px 21px 24px;
+  }
+  .bloc2 {
+   width: 211px;
+   height: 21px;
+   margin: 22px 48px 21px 0px;
+  }
+  .bloc3 {
+   width: 266px;
+   height: 21px;
+   margin: 22px 24px 21px 0px;
+  }
+  .bloc4 {
+   width: 192px;
+   height: 64px;
+   background-color: #3077c6;
+   border-radius: 8pt;
+   padding: 20px 57px;
+  }
+  .text-block4 {
+   font-family: 'Times New Roman', Times, serif;
+   font-style: normal;
+   font-size: 24px;
+   font-weight: normal;
+   text-align: center; 
+   color: #ffff;
+  }
+  .text-discover {
+   font-family: 'Times New Roman', Times, serif;
+   font-style: normal;
+   font-size: 50px;
+   font-weight: normal;
+   text-align: left;
+   color: #ffff;
+  }
+  .text-search {
+   font-family: 'Times New Roman', Times, serif;
+   font-style: normal;
+   font-size: 18px;
+   font-weight: normal;
+   text-align: center;
+   color: #383838;
+  }
+  .apps {
+   width: 271px;
+   height: 40px;
+   margin: 120px 481px 0px 481px;
+   display: flex;
+   justify-content: space-between;
+  }
+  
