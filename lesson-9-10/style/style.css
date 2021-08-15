@@ -1,0 +1,191 @@
+* {
+  margin: 0; 
+  padding: 0;
+  box-sizing: border-box;
+ }
+ .container-homes {
+  width: 1264px;
+  padding: 120px 16px;
+  margin: 0 auto;
+  background-color: #EAF0F9;
+ } 
+ .title {
+  text-align: center;
+  margin-bottom: 105px;
+ }
+ .accommodation-options {
+  display: flex;
+ }
+ .type-of-accommodation {
+  width: 25%;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+ }
+ .icon-wrapper {
+  width: 296px;
+  height: 296px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .place-of-residence {
+  margin-top: 24px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #3077C6;
+ }
+ .city-and-country {
+  margin-top: 24px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #BFBFBF;
+ }
+ .container-destinations {
+  width: 1264px;
+  padding: 120px 16px;
+  margin: 0 auto;
+ }
+  .tabs {
+  width: 622px;
+  height: 64px;
+  margin-bottom: 64px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+ }
+  .region {
+  width: 192px;
+  padding: 16px 53px;
+  background-color: #3077C6;
+  color: #ffff;
+  font-size: 20px;
+  display: flex;
+  text-align: center;
+  border-radius: 8px;
+  border: none;
+ }
+ .cities {
+  width: 192px;
+  padding: 16px 53px;
+  background-color: #F3F3F4;
+  font-size: 20px;
+  display: flex;
+  text-align: center;
+  border-radius: 8px;
+  border: none;
+ }
+ .places-of-interest {
+  width: 238px;
+  padding: 17px 25px;
+  background-color: #F3F3F4;
+  font-size: 20px;
+  display: flex;
+  text-align: center;
+  border-radius: 8px;
+  border: none;
+ }
+ .regions {
+  display: flex;
+ }
+ .country {
+  width: 25%;
+  margin-right: 16px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  }
+ .icon-maldives {
+  width: 296px;
+  height: 296px;
+  background-image: url(/lesson-9-10/style/img/Rectangle\ 51.svg);
+  }
+ .book-now {
+  width: 128px;
+  height: 48px;
+  margin: 124px 83px;
+  box-sizing: border-box;
+  border: 1px solid #3077C6;
+  border-radius: 8px;
+ }
+ .icon-country {
+  width: 296px;
+  height: 296px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+ .country-name {
+  margin-top: 24px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  color: #3077C6;
+ }
+ .arrow {
+  width: 40px;
+  height: 40px;
+  margin: 0 auto;
+  margin-top: 48px;
+  background-image: url(/lesson-9/style/img/Ellipse\ 30.svg);
+  padding: 10px 10px;
+ }
+ .sing-up {
+  width: 1264px;
+  padding: 0px 16px;
+  margin: 0 auto;
+  background-color: #EAF0F9;
+ }
+ header {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 24px;
+ }
+ .icon-close {
+  width: 26px;
+  height: 26px;
+  justify-content: flex-end;
+  
+ }
+ .user {
+  width: 86px;
+  height: 86px;
+  padding-top: 95px;
+  padding-left: 24px;
+ }
+ p {
+  height: 28px;
+  margin: 5px 649px 21px 134px;
+  font-family: 'Times New Roman', Times, serif;
+  font-style: normal;
+  font-size: 20px;
+  line-height: 28px;
+  text-align: start;
+ }
+ button {
+  width: 128px;
+  height: 48px;
+  margin: 0px 970px 52px 132px;
+  background-color: #ffff;
+  color: #3077C6;
+  box-sizing: border-box;
+  border: 1px solid #3077c6;
+  border-radius: 8px;
+ }
+
+ 
+ 
+ 
+
+
+
+ 
